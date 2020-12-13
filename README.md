@@ -34,7 +34,7 @@ For data preprocessing, we found that removing stopwords and stemming the words 
 * Transformers
 
 
-To install dependencies, you can use the included **environment.ysml** to create a virtual environment with Anaconda. Reference can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). A detailed tutorial will be included in the DEMO.
+To install dependencies, you can use the included **environment.ysml** to create a virtual environment with Anaconda. Installation reference can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). A detailed tutorial will be included in the DEMO.
 
 ## Contributions
 * Junting Wang: Team Leader. Implemented the model and written up the code documentation.
